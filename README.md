@@ -1,5 +1,5 @@
 # SistemaPuntos_Excepciones
-Practica Excepciones - Sistema de puntos
+Práctica Excepciones - Sistema de puntos
 
 Crear un sistema que permita registrar usuarios de una empresa para un sistema de premios.
     Para el registro se necesita el nombre y legajo.
